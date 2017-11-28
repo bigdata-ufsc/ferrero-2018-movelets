@@ -1,0 +1,3 @@
+-curpath D:/Users/andres/acmsac2018/datasets/ACMSAC2018/E2/1_patel_hurricane_2vs3/ 
+-respath D:/Users/andres/git_projects/results/local/
+-descfile D:/Users/andres/acmsac2018/datasets/ACMSAC2018/E2/descriptions/spatialMovelets.json -nt 8 -q LSP -cache true

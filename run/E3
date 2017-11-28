@@ -1,0 +1,11 @@
+#!/bin/bash
+cd "../datasets/ACMSAC2018/E3"
+
+# It executes the experiments
+#bash moveletsAll
+
+bash dodgeAll
+
+bash zhengAll
+
+bash xiaoAll
